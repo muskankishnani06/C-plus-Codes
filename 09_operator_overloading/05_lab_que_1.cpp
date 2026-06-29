@@ -43,10 +43,11 @@ int main()
     {
 
         cout << "n1 is greater than n2 " << endl;
-    }else{
+    }
+    else
+    {
 
         cout << "n2 is greater than n1 " << endl;
-
     }
 
     return 0;
